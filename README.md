@@ -1,2 +1,2 @@
-# team10
+This is a shakespeare text generator that uses knn algorithm 
 
